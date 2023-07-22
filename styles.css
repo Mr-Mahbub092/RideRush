@@ -1,0 +1,10 @@
+/*Google Font Poppins & Manrope*/
+  @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500&family=Poppins:wght@300;400;500;600;700&display=swap');
+
+
+.font-manrope{
+  font-family: 'Manrope', sans-serif;
+}
+.font-poppins{
+  font-family: 'Poppins', sans-serif;
+}
